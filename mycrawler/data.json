@@ -1,0 +1,452 @@
+[
+  {
+    "category_name": "Travel",
+    "total_count": "11",
+    "most_expensive_book": "A Year in Provence ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Womens Fiction",
+    "total_count": "17",
+    "most_expensive_book": "I Had a Nice ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Philosophy",
+    "total_count": "11",
+    "most_expensive_book": "The Death of Humanity: ...",
+    "human_count": 1,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Classics",
+    "total_count": "19",
+    "most_expensive_book": "Candide",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Religion",
+    "total_count": "7",
+    "most_expensive_book": "The Bhagavad Gita",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Music",
+    "total_count": "13",
+    "most_expensive_book": "Our Band Could Be ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Sports and Games",
+    "total_count": "5",
+    "most_expensive_book": "Friday Night Lights: A ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Crime",
+    "total_count": "1",
+    "most_expensive_book": "The Long Shadow of ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Erotica",
+    "total_count": "1",
+    "most_expensive_book": "Dark Notes",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 1,
+    "school_count": 0
+  },
+  {
+    "category_name": "Cultural",
+    "total_count": "1",
+    "most_expensive_book": "Amid the Chaos",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Politics",
+    "total_count": "3",
+    "most_expensive_book": "Equal Is Unfair: America's ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Science Fiction",
+    "total_count": "16",
+    "most_expensive_book": "Dune (Dune #1)",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Mystery",
+    "total_count": "32",
+    "most_expensive_book": "Boar Island (Anna Pigeon ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 2,
+    "school_count": 0
+  },
+  {
+    "category_name": "Short Stories",
+    "total_count": "1",
+    "most_expensive_book": "The Grownup",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Health",
+    "total_count": "4",
+    "most_expensive_book": "Eat Fat, Get Thin",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Novels",
+    "total_count": "1",
+    "most_expensive_book": "Suzie Snowflake: One beautiful ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Christian",
+    "total_count": "3",
+    "most_expensive_book": "(Un)Qualified: How God Uses ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Childrens",
+    "total_count": "29",
+    "most_expensive_book": "The White Cat and ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Historical Fiction",
+    "total_count": "26",
+    "most_expensive_book": "The Last Painting of ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Historical",
+    "total_count": "2",
+    "most_expensive_book": "All the Light We ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Spirituality",
+    "total_count": "6",
+    "most_expensive_book": "A New Earth: Awakening ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Romance",
+    "total_count": "35",
+    "most_expensive_book": "The Perfect Play (Play ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 2,
+    "school_count": 0
+  },
+  {
+    "category_name": "Contemporary",
+    "total_count": "3",
+    "most_expensive_book": "Someone Like You (The ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Self Help",
+    "total_count": "5",
+    "most_expensive_book": "Overload: How to Unplug, ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Academic",
+    "total_count": "1",
+    "most_expensive_book": "Logan Kade (Fallen Crest ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Christian Fiction",
+    "total_count": "6",
+    "most_expensive_book": "If I Run (If ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Biography",
+    "total_count": "5",
+    "most_expensive_book": "Benjamin Franklin: An American ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Business",
+    "total_count": "12",
+    "most_expensive_book": "Rich Dad, Poor Dad",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Thriller",
+    "total_count": "11",
+    "most_expensive_book": "The Bone Hunters (Lexy ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Horror",
+    "total_count": "17",
+    "most_expensive_book": "The Stand",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Humor",
+    "total_count": "10",
+    "most_expensive_book": "Lamb: The Gospel According ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 1
+  },
+  {
+    "category_name": "Autobiography",
+    "total_count": "9",
+    "most_expensive_book": "Life Without a Recipe",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "History",
+    "total_count": "18",
+    "most_expensive_book": "Thomas Jefferson and the ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Psychology",
+    "total_count": "7",
+    "most_expensive_book": "Civilization and Its Discontents",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Adult Fiction",
+    "total_count": "1",
+    "most_expensive_book": "Fifty Shades Freed (Fifty ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Parenting",
+    "total_count": "1",
+    "most_expensive_book": "Catastrophic Happiness: Finding Joy ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Science",
+    "total_count": "14",
+    "most_expensive_book": "Immunity: How Elie Metchnikoff ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "New Adult",
+    "total_count": "6",
+    "most_expensive_book": "Shameless",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Food and Drink",
+    "total_count": "30",
+    "most_expensive_book": "The Barefoot Contessa Cookbook",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Fiction",
+    "total_count": "65",
+    "most_expensive_book": "Last One Home (New ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Paranormal",
+    "total_count": "1",
+    "most_expensive_book": "Vampire Knight, Vol. 1 ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Art",
+    "total_count": "8",
+    "most_expensive_book": "Feathers: Displays of Brilliant ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Suspense",
+    "total_count": "1",
+    "most_expensive_book": "Silence in the Dark ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 1,
+    "school_count": 0
+  },
+  {
+    "category_name": "Sequential Art",
+    "total_count": "75",
+    "most_expensive_book": "El Deafo",
+    "human_count": 1,
+    "idea_count": 0,
+    "dark_count": 1,
+    "school_count": 1
+  },
+  {
+    "category_name": "Fantasy",
+    "total_count": "48",
+    "most_expensive_book": "Myriad (Prentor #1)",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 1,
+    "school_count": 0
+  },
+  {
+    "category_name": "Young Adult",
+    "total_count": "54",
+    "most_expensive_book": "Aristotle and Dante Discover ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 2,
+    "school_count": 0
+  },
+  {
+    "category_name": "Nonfiction",
+    "total_count": "110",
+    "most_expensive_book": "The Diary of a ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Poetry",
+    "total_count": "19",
+    "most_expensive_book": "Slow States of Collapse: ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  },
+  {
+    "category_name": "Default",
+    "total_count": "152",
+    "most_expensive_book": "Unlimited Intuition Now",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 2,
+    "school_count": 0
+  },
+  {
+    "category_name": "Add a comment",
+    "total_count": "67",
+    "most_expensive_book": "The Gray Rhino: How ...",
+    "human_count": 0,
+    "idea_count": 0,
+    "dark_count": 0,
+    "school_count": 0
+  }
+]
